@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-TicketStation",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-TicketStation",
+      "appliesTo": "TicketStation.csproj",
+      "type": "msbuild"
+    }
+  ]
+}
